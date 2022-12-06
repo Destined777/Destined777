@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Destined777
+- 👋 Hi, I’m @Destined777, a student majoring in computer science and technology in HUST
 - 👀 I’m interested in DBMS & GO backend
 - 🌱 I’m currently learning Java
 - 📫 How to reach me Destined777@163.com
